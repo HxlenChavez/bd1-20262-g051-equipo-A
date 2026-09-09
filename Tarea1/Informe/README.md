@@ -4,7 +4,7 @@ Carpeta destinada al informe de la **Experiencia de Aprendizaje 1 (EA1) — Mode
 
 | Entregable | Formato | Estado |
 |---|---|---|
-| `20262-bd1-ea1-equipo-A-informe.pdf` | `.pdf` | Pendiente de cargue |
+| [`20262-bd1-ea1-equipo-A-informe.pdf`](20262-bd1-ea1-equipo-A-informe.pdf) | `.pdf` | Entregado |
 
 El informe contiene el paso a paso de la propuesta de solución:
 
