@@ -70,7 +70,7 @@ Las carpetas están organizadas por tarea y nombradas de acuerdo con el entregab
 
 | Tarea | Contenido | Estado |
 |---|---|---|
-| [Tarea 1](Tarea1) — Modelo Conceptual | Inventario de entidades, atributos y relaciones; diagrama E-R de Chen; análisis y conclusiones | En curso |
+| [Tarea 1](Tarea1) — Modelo Conceptual | Inventario de entidades, atributos y relaciones; diagrama E-R de Chen; análisis y conclusiones | Informe entregado · video pendiente |
 | [Tarea 2](Tarea2) | Pendiente | Pendiente |
 | [Tarea 3](Tarea3) | Pendiente | Pendiente |
 | [Tarea 4](Tarea4) | Pendiente | Pendiente |
