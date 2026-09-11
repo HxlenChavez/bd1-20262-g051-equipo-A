@@ -4,7 +4,7 @@ Por indicación del curso, **el video no se almacena en el repositorio**: aquí 
 
 | Entregable | Nombre del video | Enlace |
 |---|---|---|
-| Video de sustentación EA1 | `20262-bd1-ea1-equipo-A-video` | _Pendiente_ |
+| Video de sustentación EA1 | `bd1-20262-g051-equipo-A-video` | [https://youtu.be/ntszz-6X8TA](https://youtu.be/ntszz-6X8TA) |
 
 **Requisitos del video**
 
