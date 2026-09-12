@@ -5,4 +5,5 @@ Entregables de la segunda fase del proyecto de aula: normalización del modelo r
 | Entregable | Ubicación | Estado |
 |---|---|---|
 | Informe de la propuesta de solución | [`Informe/`](Informe) | Entregado |
+| Hoja de cálculo (normalización y diccionario de datos) | [`Resultados/`](Resultados) | Entregado |
 | Video de sustentación | — | Pendiente |
