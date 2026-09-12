@@ -1,3 +1,8 @@
-# Tarea 2
+# Tarea 2 — Modelo Lógico (EA2)
 
-Carpeta reservada para los entregables de la Tarea 2 del proyecto de aula. Contenido pendiente.
+Entregables de la segunda fase del proyecto de aula: normalización del modelo relacional hasta 3FN y diccionario de datos genérico.
+
+| Entregable | Ubicación | Estado |
+|---|---|---|
+| Informe de la propuesta de solución | [`Informe/`](Informe) | Entregado |
+| Video de sustentación | — | Pendiente |
