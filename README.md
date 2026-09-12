@@ -58,7 +58,8 @@ Las carpetas están organizadas por tarea y nombradas de acuerdo con el entregab
 ├── Tarea1/                 Modelo Conceptual (EA1)
 │   ├── Informe/            Informe de la propuesta de solución (.pdf)
 │   └── Video/              Enlace al video de sustentación (el video no se sube al repositorio)
-├── Tarea2/
+├── Tarea2/                 Modelo Lógico (EA2)
+│   └── Informe/            Informe de la propuesta de solución (.pdf)
 ├── Tarea3/
 ├── Tarea4/
 ├── Tarea5/
@@ -71,7 +72,7 @@ Las carpetas están organizadas por tarea y nombradas de acuerdo con el entregab
 | Tarea | Contenido | Estado |
 |---|---|---|
 | [Tarea 1](Tarea1) — Modelo Conceptual | Inventario de entidades, atributos y relaciones; diagrama E-R de Chen; análisis y conclusiones | Entregado (informe y video) |
-| [Tarea 2](Tarea2) | Pendiente | Pendiente |
+| [Tarea 2](Tarea2) — Modelo Lógico | Normalización del modelo relacional (1FN, 2FN, 3FN) y diccionario de datos genérico | Informe entregado · video pendiente |
 | [Tarea 3](Tarea3) | Pendiente | Pendiente |
 | [Tarea 4](Tarea4) | Pendiente | Pendiente |
 | [Tarea 5](Tarea5) | Pendiente | Pendiente |
