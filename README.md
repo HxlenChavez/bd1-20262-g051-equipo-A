@@ -39,7 +39,7 @@ El proyecto evoluciona durante el semestre a través de las siguientes etapas:
 |---|---|
 | Juan Camilo González Hoyos | Líder |
 | Emanuel Pérez Gutiérrez | Miembro |
-| Helen Jhoana Chavez Perez | Miembro |
+| Helen Johana Chavez Perez | Miembro |
 
 ## Descripción del caso de estudio
 
@@ -61,7 +61,10 @@ Las carpetas están organizadas por tarea y nombradas de acuerdo con el entregab
 ├── Tarea2/                 Modelo Lógico (EA2)
 │   ├── Informe/            Informe de la propuesta de solución (.pdf)
 │   └── Resultados/         Hoja de cálculo: normalización y diccionario de datos (.xlsx)
-├── Tarea3/
+├── Tarea3/                 Modelo Físico (EA3)
+│   ├── informe/            Informe de la propuesta de solución (.pdf)
+│   ├── resultados/         Diccionario de datos físico (.xlsx) y scripts DDL de creación y modificación (.sql)
+│   └── video/              El video de sustentación se presentará en la Tarea 4
 ├── Tarea4/
 ├── Tarea5/
 ├── Tarea6/
@@ -74,7 +77,7 @@ Las carpetas están organizadas por tarea y nombradas de acuerdo con el entregab
 |---|---|---|
 | [Tarea 1](Tarea1) — Modelo Conceptual | Inventario de entidades, atributos y relaciones; diagrama E-R de Chen; análisis y conclusiones | Entregado (informe y video) |
 | [Tarea 2](Tarea2) — Modelo Lógico | Normalización del modelo relacional (1FN, 2FN, 3FN) y diccionario de datos genérico | Informe y hoja de cálculo entregados · video pendiente |
-| [Tarea 3](Tarea3) | Pendiente | Pendiente |
+| [Tarea 3](Tarea3) — Modelo Físico | Modelo físico en PostgreSQL: diccionario de datos físico y scripts DDL de creación (23 tablas) y modificación | Informe, hoja de cálculo y scripts entregados · video en la Tarea 4 |
 | [Tarea 4](Tarea4) | Pendiente | Pendiente |
 | [Tarea 5](Tarea5) | Pendiente | Pendiente |
 | [Tarea 6](Tarea6) | Pendiente | Pendiente |
