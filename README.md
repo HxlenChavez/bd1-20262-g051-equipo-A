@@ -24,13 +24,18 @@
 | **Docente** | Jaime Ernesto Soto Urdaneta |
 | **Proyecto de aula** | Red Social Pascualina |
 | **Grupo** | 051 — Equipo A |
-## Integrantes
+
+## Integrantes del equipo
 
 | | |
 |:---:|:---:|
-| <img src="1000287991.jpeg" width="200"> | <img src="foto2.jpg" width="200"> |
-| **Tu nombre** | **Nombre de tu compañero** |
-| Breve presentación | Breve presentación |
+| <img src="1000287991.jpeg" width="200"> | <img src="74299.jpeg" width="200"> |
+|---|---|
+
+| **| Helen Johana Chavez Perez | Miembro |** | **Emanuel Pérez Gutiérrez |Miembro |** |
+|                                             | Mi pasión es la música y tocó varios instrumentos, a pesar de mi apariencia 
+                                              |no solo escucho géneros pesados, por ejemplo quisiera aprender a tocar merengue en piano
+                                              |o sé mucho pero estoy dispuesto a aprender sin limites |
 
 ## Propósito del proyecto
 
@@ -39,13 +44,6 @@ Diseñar e implementar la base de datos relacional que soporta la **Red Social P
 El proyecto evoluciona durante el semestre a través de las siguientes etapas:
 
 > Análisis del problema → Modelo conceptual → Modelo lógico → Modelo físico → DDL → DML → Consultas → Análisis de información → Validación de integridad
-
-## Integrantes del equipo
-
-| Integrante | Rol en el equipo |
-|---|---|
-| Emanuel Pérez Gutiérrez | Miembro |
-| Helen Johana Chavez Perez | Miembro |
 
 ## Descripción del caso de estudio
 
