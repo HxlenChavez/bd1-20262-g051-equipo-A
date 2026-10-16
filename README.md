@@ -33,9 +33,11 @@
 |---|---|
 
 | **| Helen Johana Chavez Perez | Miembro |** | **Emanuel Pérez Gutiérrez |Miembro |** |
-|                                             | Mi pasión es la música y tocó varios instrumentos, a pesar de mi apariencia 
-                                              |no solo escucho géneros pesados, por ejemplo quisiera aprender a tocar merengue en piano
-                                              |o sé mucho pero estoy dispuesto a aprender sin limites |
+|   19 años, Soy de la tecnología 
+en desarrollo de software, me gusta aprender cosas nuevas
+y compartir con mis compañeros, mi color fv es el azul                                           | Mi pasión es la música y tocó varios instrumentos, a pesar de mi apariencia |
+|                                             |no solo escucho géneros pesados, por ejemplo quisiera aprender a tocar merengue en piano |
+|                                             |o sé mucho pero estoy dispuesto a aprender sin limites |
 
 ## Propósito del proyecto
 
