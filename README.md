@@ -28,7 +28,7 @@
 
 | | |
 |:---:|:---:|
-| <img src="foto1.jpg" width="200"> | <img src="foto2.jpg" width="200"> |
+| <img src="1000287991.jpeg" width="200"> | <img src="foto2.jpg" width="200"> |
 | **Tu nombre** | **Nombre de tu compañero** |
 | Breve presentación | Breve presentación |
 
