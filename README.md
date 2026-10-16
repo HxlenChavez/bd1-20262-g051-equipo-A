@@ -24,6 +24,13 @@
 | **Docente** | Jaime Ernesto Soto Urdaneta |
 | **Proyecto de aula** | Red Social Pascualina |
 | **Grupo** | 051 — Equipo A |
+## Integrantes
+
+| | |
+|:---:|:---:|
+| <img src="foto1.jpg" width="200"> | <img src="foto2.jpg" width="200"> |
+| **Tu nombre** | **Nombre de tu compañero** |
+| Breve presentación | Breve presentación |
 
 ## Propósito del proyecto
 
