@@ -28,7 +28,7 @@
 ## Integrantes del equipo
 | | |
 |:---:|:---:|
-| <img src="docs/1000287991.jpeg" width="200"> | <img src="docs/74299.jpeg" width="200"> |
+| <img src="docs/74299.jpeg" width="200">  | <img src="docs/1000287991.jpeg" width="200"> |
 | **Helen Johana Chavez Perez** | **Emanuel Pérez Gutiérrez** |
 | Miembro | Miembro |
 | 19 años. Me apasiona la tecnología y el desarrollo de software. Me gusta aprender cosas nuevas y compartir con mis compañeros. Mi color favorito es el azul. | Mi pasión es la música y toco varios instrumentos, a pesar de mi apariencia no solo escucho géneros pesados. Por ejemplo, quisiera aprender a tocar merengue en piano. Sé mucho, pero estoy dispuesto a aprender sin límites. |
