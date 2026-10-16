@@ -26,18 +26,13 @@
 | **Grupo** | 051 — Equipo A |
 
 ## Integrantes del equipo
-
 | | |
 |:---:|:---:|
 | <img src="1000287991.jpeg" width="200"> | <img src="74299.jpeg" width="200"> |
-|---|---|
+| **Helen Johana Chavez Perez** | **Emanuel Pérez Gutiérrez** |
+| Miembro | Miembro |
+| 19 años. Me apasiona la tecnología y el desarrollo de software. Me gusta aprender cosas nuevas y compartir con mis compañeros. Mi color favorito es el azul. | Mi pasión es la música y toco varios instrumentos, a pesar de mi apariencia no solo escucho géneros pesados. Por ejemplo, quisiera aprender a tocar merengue en piano. Sé mucho, pero estoy dispuesto a aprender sin límites. |
 
-| **| Helen Johana Chavez Perez | Miembro |** | **Emanuel Pérez Gutiérrez |Miembro |** |
-|   19 años, Soy de la tecnología 
-en desarrollo de software, me gusta aprender cosas nuevas
-y compartir con mis compañeros, mi color fv es el azul                                           | Mi pasión es la música y tocó varios instrumentos, a pesar de mi apariencia |
-|                                             |no solo escucho géneros pesados, por ejemplo quisiera aprender a tocar merengue en piano |
-|                                             |o sé mucho pero estoy dispuesto a aprender sin limites |
 
 ## Propósito del proyecto
 
