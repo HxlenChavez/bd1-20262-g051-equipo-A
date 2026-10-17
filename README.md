@@ -75,7 +75,7 @@ Las carpetas están organizadas por tarea y nombradas de acuerdo con el entregab
 |---|---|---|
 | [Tarea 1](Tarea1) — Modelo Conceptual | Inventario de entidades, atributos y relaciones; diagrama E-R de Chen; análisis y conclusiones | Entregado (informe y video) |
 | [Tarea 2](Tarea2) — Modelo Lógico | Normalización del modelo relacional (1FN, 2FN, 3FN) y diccionario de datos genérico | Informe y hoja de cálculo entregados · video pendiente |
-| [Tarea 3](Tarea3) — **Modelo Físico** | Modelo físico en PostgreSQL: diccionario de datos físico y scripts DDL de creación (23 tablas) y modificación | Entregado (informe, scripts y hoja de cálculo) || 
-| [Tarea 4](Tarea4) | Pendiente | Pendiente |
+| [Tarea 3](Tarea3) — Modelo Físico | Modelo físico en PostgreSQL: diccionario de datos físico y scripts DDL de creación (23 tablas) y modificación | Entregado (informe, scripts y hoja de cálculo) || 
+| [Tarea 4](Tarea4) — Multi-SGBD y Semi-Estructurado| Implementación en 3 SGBDs (PostgreSQL, MySQL, SQL Server), tabla comparativa de tipos de datos, datos semiestructurados (JSONB) y análisis | Entregado (informe, diccionarios, scripts DDL y video) |
 | [Tarea 5](Tarea5) | Pendiente | Pendiente |
 | [Tarea 6](Tarea6) | Pendiente | Pendiente |
