@@ -6,8 +6,8 @@ Entregables de la cuarta fase del proyecto de aula: implementación y pruebas en
 
 | Entregable | Ubicación | Formato | Estado |
 | :--- | :--- | :---: | :---: |
-| Diccionarios de datos | `Diccionarios/` | `.xlsx` / `.pdf` | Entregado |
-| Informe de la entrega | `Informe/` | `.docx` | Entregado |
-| Scripts SQL (PostgreSQL, MySQL, SQL Server) | `Scripts/` | `.sql` | Entregado |
-| Hoja de resultados | `Resultados` | Archivo | Entregado |
-| Enlace al video de sustentación | `Video/` | Enlace / `.md` | Entregado |
+| Diccionarios de datos | [`Diccionarios/`](./Diccionarios/) | `.xlsx` / `.pdf` | Entregado |
+| Informe de la entrega | [`Informe/`](./Informe/) | `.docx` | Entregado |
+| Scripts SQL (PostgreSQL, MySQL, SQL Server) | [`Scripts/`](./Scripts/) | `.sql` | Entregado |
+| Hoja de resultados | [`Resultados`](./Resultados) | Archivo | Entregado |
+| Enlace al video de sustentación | [`Video/`](./Video/) | Enlace / `.md` | Entregado |
