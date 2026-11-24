@@ -8,7 +8,7 @@ Entregables finales del proyecto de aula: implementación del Lenguaje de Manipu
 
 | Entregable | Descripción | Formato sugerido | Estado |
 | :--- | :--- | :---: | :---: |
-| Informe final | Documento completo del proyecto final | `.docx` / `.pdf` | Pendiente |
+| Informe final | Documento completo del proyecto final | `.docx` / `.pdf` | Entregado |
 | Scripts SQL | Consultas y operaciones DML | `.sql` | Pendiente |
-| Respaldo de base de datos | Copia generada con `pg_dump` | `.sql` / `.backup` | Pendiente |
-| Enlace al video | Sustentación del proyecto final | `.txt` / `.md` | Pendiente |
+| Respaldo de base de datos | Copia generada con `pg_dump` | `.sql` / `.backup` | Entregado |
+| Enlace al video | Sustentación del proyecto final | `.txt` / `.md` | Entregado |
