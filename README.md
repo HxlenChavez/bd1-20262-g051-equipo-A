@@ -62,10 +62,17 @@ Las carpetas están organizadas por tarea y nombradas de acuerdo con el entregab
 ├── Tarea2/                 Modelo Lógico (EA2)
 │   ├── Informe/            Informe de la propuesta de solución (.pdf)
 │   └── Resultados/         Hoja de cálculo: normalización y diccionario de datos (.xlsx)
-├── Tarea3/
-├── Tarea4/
-├── Tarea5/
-├── Tarea6/
+├── Tarea3/                 Modelo Físico en PostgreSQL (EA3)
+│   └── (informe, scripts DDL y hoja de cálculo)
+├── Tarea4/                 Multi-SGBD y semi-estructurado (EA4)
+│   ├── Diccionarios/       Diccionarios de datos
+│   ├── Informe/            Informe (.docx)
+│   ├── Scripts/            Scripts SQL (PostgreSQL, MySQL, SQL Server)
+│   ├── Video/              Enlace al video de sustentación
+│   └── Resultados          Hoja de resultados
+├── Tarea5/                 Evaluación Unidad 3 (EA5): examen individual y reto en grupo, presencial
+├── Tarea6/                 Proyecto Final: DML (EA6). Sin subcarpetas
+│   └── Informe, scripts SQL, respaldo pg_dump y enlace al video
 └── docs/img/               Recursos gráficos del repositorio
 ```
 
@@ -75,7 +82,7 @@ Las carpetas están organizadas por tarea y nombradas de acuerdo con el entregab
 |---|---|---|
 | [Tarea 1](Tarea1) — Modelo Conceptual | Inventario de entidades, atributos y relaciones; diagrama E-R de Chen; análisis y conclusiones | Entregado (informe y video) |
 | [Tarea 2](Tarea2) — Modelo Lógico | Normalización del modelo relacional (1FN, 2FN, 3FN) y diccionario de datos genérico | Informe y hoja de cálculo entregados · video pendiente |
-| [Tarea 3](Tarea3) — Modelo Físico | Modelo físico en PostgreSQL: diccionario de datos físico y scripts DDL de creación (23 tablas) y modificación | Entregado (informe, scripts y hoja de cálculo) || 
+| [Tarea 3](Tarea3) — Modelo Físico | Modelo físico en PostgreSQL: diccionario de datos físico y scripts DDL de creación (23 tablas) y modificación | Entregado (informe, scripts y hoja de cálculo) |
 | [Tarea 4](Tarea4) — Multi-SGBD y Semi-Estructurado| Implementación en 3 SGBDs (PostgreSQL, MySQL, SQL Server), tabla comparativa de tipos de datos, datos semiestructurados (JSONB) y análisis | Entregado (informe, diccionarios, scripts DDL y video) |
 | [Tarea 5](Tarea5) – Evaluación Unidad 3 | Evaluación en clase: examen individual (45 min) y reto en grupo (1 h). Temas: fundamentos de DML, SELECT simples y con JOINs| Realizada en clase |
 | [Tarea 6](Tarea6) – Proyecto Final: DML | Poblamiento masivo (18.550 usuarios), datos JSON, consultas con 0 a 4 JOINs, agregaciones (COUNT, SUM), vista, PREPARE/EXECUTE, EXPLAIN ANALYZE, propiedades ACID y respaldo pg_dump | Entregado (informe, scripts, respaldo y video) |
