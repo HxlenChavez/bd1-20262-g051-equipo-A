@@ -55,7 +55,7 @@ El reto consiste en modelar correctamente estas situaciones para evitar los ries
 Las carpetas están organizadas por tarea y nombradas de acuerdo con el entregable que almacenan.
 
 ```
-.
+
 ├── Tarea1/                 Modelo Conceptual (EA1)
 │   ├── Informe/            Informe de la propuesta de solución (.pdf)
 │   └── Video/              Enlace al video de sustentación (el video no se sube al repositorio)
