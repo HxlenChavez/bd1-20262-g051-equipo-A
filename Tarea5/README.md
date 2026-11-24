@@ -1,3 +1,5 @@
-# Tarea 5
+# Tarea 5 — Evaluación Unidad 3 (EA5)
 
-Carpeta reservada para los entregables de la Tarea 5 del proyecto de aula. Contenido pendiente.
+Evaluación correspondiente a la Unidad 3: examen individual y reto en grupo realizados de manera presencial en clase.
+
+> **Nota:** Al tratarse de una actividad evaluativa presencial, esta carpeta no requiere carga de entregables digitales adicionales en el repositorio.
