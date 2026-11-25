@@ -6,8 +6,7 @@ Entregables finales del proyecto de aula (Red Social Pascualina): poblamiento ma
 
 ## Video de sustentación
 
-[Ver video]https://youtu.be/7Gc8_OphOY4?si=RN4WFMIqH3QY01RT
-
+[Ver video en YouTube](https://youtu.be/7Gc8_OphOY4?si=RN4WFMIqH3QY01RT)
 
 ## Entregables
 
@@ -19,10 +18,5 @@ Entregables finales del proyecto de aula (Red Social Pascualina): poblamiento ma
 | Script 2: Manipulación de datos semi-estructurados (JSON) | [`20262-bd1-ea6-equipo-A-scripts-02-JSON.sql`](20262-bd1-ea6-equipo-A-scripts-02-JSON.sql) | Entregado |
 | Script 3: Consultas SELECT (0 a 4 JOINs) | [`20262-bd1-ea6-equipo-A-scripts-03-4567-select-join.sql`](20262-bd1-ea6-equipo-A-scripts-03-4567-select-join.sql) | Entregado |
 | Script 4: Funciones de agregación (`COUNT`, `SUM`) | [`20262-bd1-ea6-equipo-A-scripts-08-funciones-agregacion.sql`](20262-bd1-ea6-equipo-A-scripts-08-funciones-agregacion.sql) | Entregado |
-| Script 5: Vistas, `PREPARE`, `ANALYZE` y propiedades ACID | [`20262-bd1-ea6-equipo-A-scripts-09-10-11-12.sql`](20262-bd1-ea6-equipo-A-scripts-09-10-11-12.sql) | Entregado |
+| Script 5: Vista, `PREPARE`, `EXPLAIN ANALYZE` y propiedades ACID | [`20262-bd1-ea6-equipo-A-scripts-09-10-11-12.sql`](20262-bd1-ea6-equipo-A-scripts-09-10-11-12.sql) | Entregado |
 | Respaldo físico de la base de datos (`pg_dump`) | [`20262-bd1-ea6-equipo-A-respaldo.sql`](20262-bd1-ea6-equipo-A-respaldo.sql) | Entregado |
-
-## Integrantes
-
-- Helen Johana Chavez Perez
-- Emanuel Pérez Gutiérrez
